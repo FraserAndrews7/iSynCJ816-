@@ -16,6 +16,7 @@ Base stoichiometric model (iSynCJ816) with heterologous pathways:
 > iSynCJ816_STOICHIOMETRIC_for_AUTOPACKMEN.xml
 
 kcat values used for construction 
+> kcats used
 > kcat_database_combined
 > kcat_database_brenda
 > kcat_database_brenda_for_model
