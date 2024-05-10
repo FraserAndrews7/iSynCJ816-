@@ -9,6 +9,9 @@ Finished models:
 > iSynCJ816_STAR.xml
 > iSynCJ816_STAR.mat
 
+Finished model with pseudo-metabolites removed:
+> iSynCJ816_STAR_no_Pusedometabolite_Coefficients.xml
+
 Base stoichiometric model (iSynCJ816) with heterologous pathways:
 > iSynCJ816_STOICHIOMETRIC_for_AUTOPACKMEN.xml
 
