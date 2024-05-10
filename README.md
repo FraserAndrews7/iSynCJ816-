@@ -9,11 +9,17 @@ Finished models:
 > iSynCJ816_STAR.xml
 > iSynCJ816_STAR.mat
 
+Base stoichiometric model (iSynCJ816) with heterologous pathways:
+> iSynCJ816_STOICHIOMETRIC_for_AUTOPACKMEN.xml
+
 kcat values used for construction 
->
+> kcat_database_combined
+> kcat_database_brenda
+> kcat_database_brenda_for_model
+> kcat_database_sabio_rk
 
 Molecular weights of enzymes
->
+>Finished_ID_MASS_MAPPING_2
 
 Code used in construction
 >
