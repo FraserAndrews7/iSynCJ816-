@@ -25,5 +25,6 @@ kcat values used for construction
 Molecular weights of enzymes
 >Finished_ID_MASS_MAPPING_2
 
-Code used in construction
->
+Code used in construction and simulation
+>Creating Stoichiometric XML_Github
+>sMOMENT_construction_Github
